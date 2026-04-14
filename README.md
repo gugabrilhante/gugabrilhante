@@ -56,5 +56,5 @@ A real-time 3D Rubik’s Cube simulator built with OpenGL ES.
 ## 📫 Contact
 
 * LinkedIn: https://www.linkedin.com/in/gustavo-belo/
-* Email: gugabrilhante
+* Email: gugabrilhante@gmail.com
 * Play Store: https://play.google.com/store/apps/developer?id=Gustavo+Belo+Brilhante
