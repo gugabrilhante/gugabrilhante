@@ -4,7 +4,6 @@ I build scalable mobile applications with a strong focus on performance, archite
 
 ## 🚀 About Me
 
-* 10+ years of experience in Android development
 * Specialized in **Kotlin-first development**, **Clean Architecture**, and **scalable systems**
 * Experience building and evolving complex applications, improving performance, reliability, and maintainability
 * Strong background in modern Android and cross-platform development
