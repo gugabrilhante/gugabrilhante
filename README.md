@@ -8,15 +8,7 @@ I build scalable mobile applications with a strong focus on performance, archite
 * Experience building and evolving complex applications, improving performance, reliability, and maintainability
 * Strong background in modern Android and cross-platform development
 * Committed to **automated testing**, **Test Pyramid strategy**, and **TDD mindset** as default engineering practices
-
-## 🧠 What I Do Best
-
-* Transform legacy or complex codebases into clean, maintainable architectures
-* Design scalable systems using **MVVM**, **MVI patterns**, and **modularization**
-* Build high-quality user experiences with **Jetpack Compose** and modern UI approaches
-* Apply best practices like **TDD**, **CI/CD**, and automated testing across all layers
-* Enforce quality gates through **unit tests**, **integration tests**, and **UI tests with Espresso**
-* Measure and maintain code coverage with **JaCoCo** integrated into CI pipelines
+* Experienced working with distributed and remote teams, collaborating across product, design, and engineering
 
 ## 💼 Featured Projects
 
@@ -54,27 +46,13 @@ A real-time 3D Rubik's Cube simulator built with OpenGL ES.
 
 * **Languages:** Kotlin
 * **Mobile:** Android SDK, Jetpack Compose, KMP
-* **Architecture:** MVVM, Clean Architecture, Modularization
+* **Architecture:** MVVM, MVI, Clean Architecture, Modularization
 * **Async:** Coroutines, Flow
 * **DI:** Koin / Hilt
 * **Networking:** Ktor, Retrofit
 * **Persistence:** Room, SQLite
 * **Testing:** JUnit, Espresso, Mockk, JaCoCo, Test Pyramid strategy
 * **Tools:** GitHub Actions, CI/CD, Gradle Version Catalog
-
-## 🧪 Engineering Quality & Testing
-
-* Automated testing as a default practice, not an afterthought
-* **Test Pyramid** approach: prioritizing unit tests, complemented by integration and UI tests
-* **TDD mindset** applied throughout development cycles
-* Code coverage tracked with **JaCoCo** and enforced via CI quality gates
-* Pull requests validated by automated pipelines before merge
-
-## 🌍 Experience
-
-* Experience working with distributed and remote teams
-* Comfortable collaborating across product, design, and engineering
-* Strong ownership of technical decisions and system design
 
 ## 📫 Contact
 
