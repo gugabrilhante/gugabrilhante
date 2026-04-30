@@ -7,15 +7,30 @@ I build scalable mobile applications with a strong focus on performance, archite
 * Specialized in **Kotlin-first development**, **Clean Architecture**, and **scalable systems**
 * Experience building and evolving complex applications, improving performance, reliability, and maintainability
 * Strong background in modern Android and cross-platform development
+* Committed to **automated testing**, **Test Pyramid strategy**, and **TDD mindset** as default engineering practices
 
 ## 🧠 What I Do Best
 
 * Transform legacy or complex codebases into clean, maintainable architectures
 * Design scalable systems using **MVVM**, **MVI patterns**, and **modularization**
 * Build high-quality user experiences with **Jetpack Compose** and modern UI approaches
-* Apply best practices like **TDD**, **CI/CD**, and automated testing
+* Apply best practices like **TDD**, **CI/CD**, and automated testing across all layers
+* Enforce quality gates through **unit tests**, **integration tests**, and **UI tests with Espresso**
+* Measure and maintain code coverage with **JaCoCo** integrated into CI pipelines
 
 ## 💼 Featured Projects
+
+### 📌 WisePrior (Android)
+
+A modern task manager app focused on intelligent prioritization, built with production-ready engineering standards.
+
+* **Jetpack Compose** + **Navigation 3** for a fully declarative, modern UI
+* Modular architecture based on **feature modules** + **core modules** for scalability and separation of concerns
+* **Clean Architecture** with strict layer boundaries: domain, data, and presentation
+* State management with **ViewModel** + **Flow** for reactive and lifecycle-aware UI
+* **Complete testing strategy following the Test Pyramid:** unit tests covering domain logic, ViewModels, and data layer; integration tests validating component interactions and data flows; UI tests with **Espresso** ensuring end-to-end user journey correctness
+* **CI/CD with GitHub Actions:** automated build on every push and pull request, full test suite execution in pipeline, code coverage reporting with **JaCoCo**, and quality gates enforced on pull requests
+* Designed for **scalability**, **testability**, and **production readiness**
 
 ### 🪙 CoinRoutine (Kotlin Multiplatform)
 
@@ -28,7 +43,7 @@ A cross-platform crypto wallet simulation sharing business logic and UI between 
 
 ### 🧊 Magic Cube Android
 
-A real-time 3D Rubik’s Cube simulator built with OpenGL ES.
+A real-time 3D Rubik's Cube simulator built with OpenGL ES.
 
 * Custom 3D rendering engine (OpenGL ES 3.0)
 * Advanced touch interaction and physics-based rotation
@@ -44,7 +59,16 @@ A real-time 3D Rubik’s Cube simulator built with OpenGL ES.
 * **DI:** Koin / Hilt
 * **Networking:** Ktor, Retrofit
 * **Persistence:** Room, SQLite
+* **Testing:** JUnit, Espresso, Mockk, JaCoCo, Test Pyramid strategy
 * **Tools:** GitHub Actions, CI/CD, Gradle Version Catalog
+
+## 🧪 Engineering Quality & Testing
+
+* Automated testing as a default practice, not an afterthought
+* **Test Pyramid** approach: prioritizing unit tests, complemented by integration and UI tests
+* **TDD mindset** applied throughout development cycles
+* Code coverage tracked with **JaCoCo** and enforced via CI quality gates
+* Pull requests validated by automated pipelines before merge
 
 ## 🌍 Experience
 
