@@ -12,13 +12,21 @@ Currently working with: Android · Kotlin Multiplatform · CI/CD · Quality Engi
 
 ## 🛠 Tech Stack
 
+**Core Stack**
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
 ![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=flat&logo=kotlin&logoColor=white)
+
+**Architecture**
+
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-grey?style=flat)
 ![MVVM](https://img.shields.io/badge/MVVM-grey?style=flat)
 ![MVI](https://img.shields.io/badge/MVI-grey?style=flat)
+
+**Android Ecosystem**
+
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
 ![Hilt](https://img.shields.io/badge/Hilt-2196F3?style=flat)
 ![Koin](https://img.shields.io/badge/Koin-F5A623?style=flat)
 ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat&logo=kotlin&logoColor=white)
@@ -26,10 +34,14 @@ Currently working with: Android · Kotlin Multiplatform · CI/CD · Quality Engi
 ![Room](https://img.shields.io/badge/Room-3DDC84?style=flat&logo=android&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat)
 ![Ktor](https://img.shields.io/badge/Ktor-0095D5?style=flat&logo=kotlin&logoColor=white)
+
+**Testing & Quality**
+
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
 ![Espresso](https://img.shields.io/badge/Espresso-3DDC84?style=flat&logo=android&logoColor=white)
 ![MockK](https://img.shields.io/badge/MockK-7F52FF?style=flat)
 ![JaCoCo](https://img.shields.io/badge/JaCoCo-E05D44?style=flat)
+![Codecov](https://img.shields.io/badge/Codecov-F01F7A?style=flat&logo=codecov&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
