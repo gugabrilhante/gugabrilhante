@@ -1,6 +1,6 @@
 ## Hi, I'm Gustavo 👋
 
-Senior Android Engineer focused on scalable, testable, and production-ready mobile products.
+Android Engineer focused on scalable, testable, and production-ready mobile products.
 
 Currently working with: Android · Kotlin Multiplatform · CI/CD · Quality Engineering
 
