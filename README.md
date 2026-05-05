@@ -1,61 +1,79 @@
-# Gustavo Brilhante — Senior Android Engineer
+Hi, I'm Gustavo 👋
 
-I build scalable mobile applications with a strong focus on performance, architecture, and real-world impact.
+Senior Android Engineer focused on scalable, testable, and production-ready mobile products.
 
-## 🚀 About Me
+Currently working with: Android · Kotlin Multiplatform · CI/CD · Quality Engineering
 
-* Specialized in **Kotlin-first development**, **Clean Architecture**, and **scalable systems**
-* Experience building and evolving complex applications, improving performance, reliability, and maintainability
-* Strong background in modern Android and cross-platform development
-* Committed to **automated testing**, **Test Pyramid strategy**, and **TDD mindset** as default engineering practices
-* Experienced working with distributed and remote teams, collaborating across product, design, and engineering
+[![Play Store](https://img.shields.io/badge/Play%20Store-Gustavo%20Belo-blue?style=flat&logo=google-play)](https://play.google.com/store/apps/developer?id=Gustavo+Belo+Brilhante)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gustavo--belo-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gustavo-belo/)
+[![Email](https://img.shields.io/badge/Email-gugabrilhante%40gmail.com-D14836?style=flat&logo=gmail)](mailto:gugabrilhante@gmail.com)
 
-## 💼 Featured Projects
-
-### 📌 WisePrior (Android)
-
-A modern task manager app focused on intelligent prioritization, built with production-ready engineering standards.
-
-* **Jetpack Compose** + **Navigation 3** for a fully declarative, modern UI
-* Modular architecture based on **feature modules** + **core modules** for scalability and separation of concerns
-* **Clean Architecture** with strict layer boundaries: domain, data, and presentation
-* State management with **ViewModel** + **Flow** for reactive and lifecycle-aware UI
-* **Complete testing strategy following the Test Pyramid:** unit tests covering domain logic, ViewModels, and data layer; integration tests validating component interactions and data flows; UI tests with **Espresso** ensuring end-to-end user journey correctness
-* **CI/CD with GitHub Actions:** automated build on every push and pull request, full test suite execution in pipeline, code coverage reporting with **JaCoCo**, and quality gates enforced on pull requests
-* Designed for **scalability**, **testability**, and **production readiness**
-
-### 🪙 CoinRoutine (Kotlin Multiplatform)
-
-A cross-platform crypto wallet simulation sharing business logic and UI between Android and iOS.
-
-* Kotlin Multiplatform + Compose Multiplatform
-* Clean Architecture (Domain-driven)
-* CI/CD pipelines with GitHub Actions
-* Unit and UI testing with coverage
-
-### 🧊 Magic Cube Android
-
-A real-time 3D Rubik's Cube simulator built with OpenGL ES.
-
-* Custom 3D rendering engine (OpenGL ES 3.0)
-* Advanced touch interaction and physics-based rotation
-* MVVM + Clean Architecture
-* Reactive state management with Coroutines & Flow
+---
 
 ## 🛠 Tech Stack
 
-* **Languages:** Kotlin
-* **Mobile:** Android SDK, Jetpack Compose, KMP
-* **Architecture:** MVVM, MVI, Clean Architecture, Modularization
-* **Async:** Coroutines, Flow
-* **DI:** Koin / Hilt
-* **Networking:** Ktor, Retrofit
-* **Persistence:** Room, SQLite
-* **Testing:** JUnit, Espresso, Mockk, JaCoCo, Test Pyramid strategy
-* **Tools:** GitHub Actions, CI/CD, Gradle Version Catalog
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-grey?style=flat)
+![MVVM](https://img.shields.io/badge/MVVM-grey?style=flat)
+![MVI](https://img.shields.io/badge/MVI-grey?style=flat)
+![Hilt](https://img.shields.io/badge/Hilt-2196F3?style=flat)
+![Koin](https://img.shields.io/badge/Koin-F5A623?style=flat)
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Flow](https://img.shields.io/badge/Flow-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Room](https://img.shields.io/badge/Room-3DDC84?style=flat&logo=android&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat)
+![Ktor](https://img.shields.io/badge/Ktor-0095D5?style=flat&logo=kotlin&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+![Espresso](https://img.shields.io/badge/Espresso-3DDC84?style=flat&logo=android&logoColor=white)
+![MockK](https://img.shields.io/badge/MockK-7F52FF?style=flat)
+![JaCoCo](https://img.shields.io/badge/JaCoCo-E05D44?style=flat)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-## 📫 Contact
+---
 
-* LinkedIn: https://www.linkedin.com/in/gustavo-belo/
-* Email: gugabrilhante@gmail.com
-* Play Store: https://play.google.com/store/apps/developer?id=Gustavo+Belo+Brilhante
+## 💼 Featured Projects
+
+### 📌 WisePrior
+
+[![GitHub](https://img.shields.io/badge/GitHub-WisePrior-181717?style=flat&logo=github)](https://github.com/gugabrilhante/WisePrior)
+
+- Jetpack Compose + Navigation 3
+- Feature + core modularization with Clean Architecture
+- ViewModel + Flow for reactive state management
+- Test Pyramid: unit, integration, and UI tests with Espresso
+- CI/CD with GitHub Actions + JaCoCo coverage gates
+
+---
+
+### 🪙 CoinRoutine
+
+[![GitHub](https://img.shields.io/badge/GitHub-CoinRoutine_KMP-181717?style=flat&logo=github)](https://github.com/gugabrilhante/CoinRoutine_KMP)
+
+- Kotlin Multiplatform + Compose Multiplatform (Android & iOS)
+- Clean Architecture (domain-driven)
+- Unit and UI testing with coverage
+- CI/CD with GitHub Actions
+
+---
+
+### 🧊 Magic Cube Android
+
+[![GitHub](https://img.shields.io/badge/GitHub-MagicCube--Android-181717?style=flat&logo=github)](https://github.com/gugabrilhante/MagicCube-Android) [![Play Store](https://img.shields.io/badge/Play%20Store-Download-blue?style=flat&logo=google-play)](https://play.google.com/store/apps/details?id=gustavo.brilhante.magiccube2)
+
+- Custom 3D rendering engine with OpenGL ES 3.0
+- Touch interaction and physics-based rotation
+- MVVM + Clean Architecture
+- Coroutines & Flow for state management
+
+---
+
+## 👨‍💻 Currently
+
+👨‍💻 Building Android and multiplatform products
+
+🧪 Applying TDD, Test Pyramid, and CI/CD practices
+
+🚀 Exploring product quality engineering and scalable architectures
