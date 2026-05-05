@@ -1,4 +1,4 @@
-Hi, I'm Gustavo 👋
+## Hi, I'm Gustavo 👋
 
 Senior Android Engineer focused on scalable, testable, and production-ready mobile products.
 
