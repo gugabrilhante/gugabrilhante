@@ -60,7 +60,7 @@ Currently working with: Android · Kotlin Multiplatform · CI/CD · Quality Engi
 
 ---
 
-### 🪙 CoinRoutine
+### 🪙 CoinRoutine KMP
 
 [![GitHub](https://img.shields.io/badge/GitHub-CoinRoutine_KMP-181717?style=flat&logo=github)](https://github.com/gugabrilhante/CoinRoutine_KMP)
 
