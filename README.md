@@ -5,7 +5,9 @@ Android Engineer focused on scalable, testable, and production-ready mobile prod
 Currently working with: Android · Kotlin Multiplatform · CI/CD · Quality Engineering
 
 [![Play Store](https://img.shields.io/badge/Play%20Store-Gustavo%20Belo-blue?style=flat&logo=google-play)](https://play.google.com/store/apps/developer?id=Gustavo+Belo+Brilhante)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gustavo--belo-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gustavo-belo/)
+
 [![Email](https://img.shields.io/badge/Email-gugabrilhante%40gmail.com-D14836?style=flat&logo=gmail)](mailto:gugabrilhante@gmail.com)
 
 ---
