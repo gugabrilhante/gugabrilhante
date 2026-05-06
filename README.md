@@ -73,6 +73,6 @@ An interactive 3D Rubik's Cube simulator for Android, featuring a custom renderi
 ---
 
 ## 👨‍💻 Currently
-# Building Android and multiplatform products
-# Applying TDD, Test Pyramid, and CI/CD practices
-# Exploring product quality engineering and scalable architectures
+- Building Android and multiplatform products
+- Applying TDD, Test Pyramid, and CI/CD practices
+- Exploring product quality engineering and scalable architectures
