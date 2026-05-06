@@ -52,7 +52,7 @@ Currently working with: Android · Kotlin Multiplatform · CI/CD · Quality Engi
 
 [![GitHub](https://img.shields.io/badge/GitHub-WisePrior-181717?style=flat&logo=github)](https://github.com/gugabrilhante/WisePrior)
 
-A production-grade Android task manager built with Clean Architecture, feature + core modularization, and Jetpack Compose. Supports reminders with exact alarms, recurrence, and a full test pyramid (unit, integration, and UI tests with Espresso), with CI/CD and JaCoCo coverage gates.
+A production-grade Android task manager/reminders - full test pyramid (unit, integration, and UI tests with Espresso), with CI/CD
 
 ---
 
@@ -60,7 +60,7 @@ A production-grade Android task manager built with Clean Architecture, feature +
 
 [![GitHub](https://img.shields.io/badge/GitHub-CoinRoutine_KMP-181717?style=flat&logo=github)](https://github.com/gugabrilhante/CoinRoutine_KMP)
 
-A cross-platform cryptocurrency wallet simulation built with Kotlin Multiplatform and Compose Multiplatform, sharing UI and business logic between Android and iOS. Features live crypto data via Ktor, local persistence with Room, biometric authentication, and full CI/CD pipelines with Kover coverage.
+A Kotlin multiplatform cryptocurrency wallet simulation
 
 ---
 
@@ -68,11 +68,11 @@ A cross-platform cryptocurrency wallet simulation built with Kotlin Multiplatfor
 
 [![GitHub](https://img.shields.io/badge/GitHub-MagicCube--Android-181717?style=flat&logo=github)](https://github.com/gugabrilhante/MagicCube-Android) [![Play Store](https://img.shields.io/badge/Play%20Store-Download-blue?style=flat&logo=google-play)](https://play.google.com/store/apps/details?id=gustavo.brilhante.magiccube2)
 
-An interactive 3D Rubik's Cube simulator for Android, featuring a custom rendering engine built on OpenGL ES 3.0, touch-based cube and face rotation with inertia physics, and a polished Material 3 UI with custom shared-element transitions and route-aware animations.
+An interactive 3D Rubik's Cube simulator for Android, featuring a custom rendering engine built on OpenGL ES 3.0
 
 ---
 
 ## 👨‍💻 Currently
-👨‍💻 Building Android and multiplatform products
-🧪 Applying TDD, Test Pyramid, and CI/CD practices
-🚀 Exploring product quality engineering and scalable architectures
+# Building Android and multiplatform products
+# Applying TDD, Test Pyramid, and CI/CD practices
+# Exploring product quality engineering and scalable architectures
