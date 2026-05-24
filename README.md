@@ -50,7 +50,7 @@ Currently working with: Android · Kotlin Multiplatform · CI/CD · Quality Engi
 
 ### ⏰ WisePrior
 
-[![GitHub](https://img.shields.io/badge/GitHub-WisePrior-181717?style=flat&logo=github)](https://github.com/gugabrilhante/WisePrior)
+[![GitHub](https://img.shields.io/badge/GitHub-WisePrior-181717?style=flat&logo=github)](https://github.com/gugabrilhante/WisePrior) [![Play Store](https://img.shields.io/badge/Play%20Store-Download-blue?style=flat&logo=google-play)](https://play.google.com/store/apps/details?id=com.gustavo.brilhante.wiseprior)
 
 A production-grade Android task manager/reminders - full test pyramid (unit, integration, and UI tests with Espresso), with CI/CD
 
