@@ -6,6 +6,8 @@ Currently working with: Android · Kotlin Multiplatform · CI/CD · Quality Engi
 
 [![Play Store](https://img.shields.io/badge/Play%20Store-Gustavo%20Belo-blue?style=flat&logo=google-play)](https://play.google.com/store/apps/developer?id=Gustavo+Belo+Brilhante)
 
+[![App Store](https://img.shields.io/badge/App%20Store-Gustavo%20Belo-blue?style=flat&logo=apple)](https://apps.apple.com/br/developer/gustavo-brilhante/id1235156190?l=en-GB)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gustavo--belo-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gustavo-belo/)
 
 [![Email](https://img.shields.io/badge/Email-gugabrilhante%40gmail.com-D14836?style=flat&logo=gmail)](mailto:gugabrilhante@gmail.com)
